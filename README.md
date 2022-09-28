@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @istiaque-nuhash
-- 👀 I’m interested in web app development
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
