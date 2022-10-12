@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @istiaque-nuhash
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React.js, Node.js, MERN Stack
+- 💞️ I’m looking to collaborate on MERN projects
+- 📫 How to reach me ... 
 
 <!---
 istiaque-nuhash/istiaque-nuhash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
