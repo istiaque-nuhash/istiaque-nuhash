@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @istiaque-nuhash
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js, Node.js, MERN Stack
-- 💞️ I’m looking to collaborate on React & MERN projects
+- 👀 I’m interested in Web Development (Laravel & MERN Stack)
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on React, MERN & Laravel projects
 - 📫 Contact me - LinkedIn : https://www.linkedin.com/in/istiaque-nuhash , Facebook : https://www.facebook.com/istiaqueahmed.nuhash , Instagram : istiaque_nuhash
 
 <!---
